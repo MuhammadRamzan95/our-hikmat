@@ -1,0 +1,294 @@
+img{
+   max-width: 100%;
+}
+
+.img1{
+    width: 130px;
+    height: 72px;
+    margin-left: 105px;
+    margin-bottom: 8px;
+}
+.navbar{
+    background-color: violet;
+}
+.header1{
+    background-color: #dffbef;
+    padding: 10px 0;
+    margin: 0;
+    color: #385724;
+    height: 54px;
+}
+.open-button{
+    border: 0;
+    position: fixed;
+    top: 38%;
+    right: 1%;
+    background: #fabe26;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+
+.header2{
+    
+
+    height: 60px;
+    background-color: #075e54;
+    background-position: center center;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: auto;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding: 10px 20px 10px 0;
+    padding-top: 10px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    position: relative;
+    justify-content: center;
+    margin-top: -10px;
+    margin-bottom: -10px;
+   
+    
+    
+}
+.navbar .btn ul li a{
+    box-shadow: 0px 15px 30px -12px rgb(0 0 0 / 20%);
+    transition: 0.3s ease;
+}
+.navbar .btn ul li a:hover{
+    background: violet;
+}
+.col1{
+    width: 420px;
+    float: left;
+}
+.col2{
+    width: 420px;
+    float: left;
+}
+.btn{
+    background-color: skyblue;
+}
+.container-fluid{
+    
+    
+    width: 100%;
+    height: 70%;
+}
+.video-banner{
+    
+    width: 100%;
+}
+.video-banner .video-player{
+    width: 100%;
+    height:414.547px
+}
+.image-banner img{
+    width: 100%;
+    cursor: pointer;
+
+}
+
+.container-4{
+    background-color: skyblue;
+    margin-top: 30px;
+}
+.cont-7{
+    max-width:fit-content;
+    background-color: darkcyan;
+}
+.div col i{
+    margin-top: 10px;
+}
+.list2{
+    list-style: none;
+  }
+  .list2 a{
+      text-decoration: none;
+      color: white;
+  }
+
+
+.img-third{
+    padding-top: 31px;
+    padding-right: 5px;
+    cursor: pointer;
+    position: relative;
+}
+.btn-3 {
+    background-color: #fabe26;
+    color: white;
+position: absolute;
+left: 40px;
+bottom: 60px;
+    height: 47px;
+    width: 120px;
+    border-radius: 3px ;
+    border-color: white;
+    
+    
+}
+
+.img-four{
+    padding-top: 30px;
+    cursor: pointer;
+    position: relative;
+}
+.btn-4 {
+    background-color: #fabe26;
+    color: white;
+position: absolute;
+left: 40px;
+bottom: 60px;
+    height: 47px;
+    width: 120px;
+    border-radius: 3px ;
+    border-color: white;
+} 
+
+.img-four button{
+    background: #fabe26;
+    color: white;
+    
+    
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 2px 5px;
+    cursor: pointer;
+    box-shadow: 0px 15px 30px -12px rgb(0 0 0 / 20%);
+    transition: 0.3s ease;
+}
+.img-four  button:hover{
+    background: violet;
+}
+.img-third button{
+    background: #fabe26;
+    color: white;
+    
+    
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 2px 5px;
+    cursor: pointer;
+    box-shadow: 0px 15px 30px -12px rgb(0 0 0 / 20%);
+    transition: 0.3s ease;
+}
+.img-third  button:hover{
+    background: violet;
+}
+.nav-item{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.fa{
+    text-decoration: none;
+    color: white;
+}
+
+.mt-5{
+    position: relative;
+    
+}
+.img-7{
+    margin-top: 30px;
+}
+.btn-5{
+    position: absolute;
+    background-color: #fabe26;
+    color: white;
+    border-radius: 3px ;
+    border-color: white;
+
+left: 40px;
+bottom: 75px;
+    height: 50px;
+    width: 150px;
+}
+.card1 {
+    position: relative;
+   
+
+}
+.card1 a{
+    position: absolute;
+    left: 150px;
+    bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    
+    color: white;
+}
+.card1 p{
+    position: absolute;
+    padding-top: 10px;
+}
+.card2 {
+    position: relative;
+   
+
+}
+.card2 a{
+    position: absolute;
+    left: 150px;
+    bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    
+    color: white;
+}
+.card2 p{
+    position: absolute;
+    padding-top: 10px;
+}
+.card3 {
+    position: relative;
+   
+
+}
+.card3 a{
+    position: absolute;
+    left: 150px;
+    bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    
+    color: white;
+}
+.card3 p{
+    position: absolute;
+    padding-top: 10px;
+}
+/* .card4 {
+    position: relative;
+    margin-top: 40px;
+   
+
+}
+.card4 a{
+    position: absolute;
+    left: 150px;
+    bottom: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    
+    color: white;
+}
+.card4 p{
+    position: absolute;
+    padding-top: 10px;
+} */
+
+
+ 
+
+ 
+  

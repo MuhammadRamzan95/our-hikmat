@@ -1,0 +1,144 @@
+body{
+    width: 100%;
+    overflow-x: hidden;
+    margin: 0;
+    padding: o;
+    font-family: Poppins !important;
+}
+img{
+    width: 100%;
+}
+
+.header1{
+    background-color: #dffbef;
+    padding: 10px 0;
+    margin: 0;
+    color: #385724;
+    height: 54px;
+}
+.header2{
+    height: 60px;
+    background-color: #075e54;
+    color: white;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    padding-top: 10px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+}
+.img1{
+    width: 130px;
+    height: 72px;
+    margin-left: 105px;
+    margin-bottom: 8px;
+}
+.open-button{
+    border: 0;
+    position: fixed;
+    top: 38%;
+    right: 1%;
+    background: #fabe26;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.img-01{
+    position: relative;
+    padding: 0;
+}
+.btn-heading{
+    width: 30%;
+    background-color: #ffffff;
+    padding: 2rem 2rem 1rem;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    position: absolute;
+    left: 50rem;   
+    bottom: 2px;
+}
+.paragraph-1{
+    
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    width: 700px;
+    margin: 0 auto;
+    text-align: justify;
+    
+    
+    
+}
+.paragraph-1 ::first-letter{
+    font-size: xx-large;
+    font-weight: 900;
+    padding-right: 10px;
+    font-size: 4rem;
+    line-height: 1;
+}
+.paragraph-2{
+    font-weight: bold;
+    padding-top: 3px;
+    line-height: 1.5;
+    color: #212529;
+    width: 700px;
+    margin: 0 auto;
+    text-align: justify;
+    font-family: sans-serif;
+}
+.acadmy {
+    background-color: transparent;
+    display: flex;
+    height: 100%;
+
+}
+.acadmy div {
+    width: 50%;
+    font-size: 30px;
+    text-align: justify;
+    margin: 20px;
+    background-color: lightcyan;
+    text-align: center;
+}
+.acadmy div p:nth-child(1){
+    height: 200px;
+}
+.fa{
+    text-decoration: none;
+    color: white;
+}
+.list2 a{
+    text-decoration: none;
+    color: white;
+
+}
+.list2 {
+    list-style: none;
+}
+.burj {
+    background-color: #fabe26 !important;
+    border-color: #fabe26 !important;
+    font-size: 14px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    position: absolute;
+    
+    
+}
+.btn-heading::after{
+    position: absolute;
+    display: block;
+    content: '';
+    width: 36px;
+    height: 36px;
+    top: -4px;
+    left: -4px;
+    border-right: 36px solid transparent;
+    border-top: 36px solid #57ab55;
+}

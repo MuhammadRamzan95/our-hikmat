@@ -1,0 +1,127 @@
+body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.header1{
+    background-color: #dffbef;
+    padding: 10px 0;
+    margin: 0;
+    color: #385724;
+    height: 54px;
+}
+.header2{
+    height: 60px;
+    background-color: #075e54;
+    color: white;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    padding-top: 10px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+}
+.img1{
+    width: 130px;
+    height: 72px;
+    margin-left: 105px;
+    margin-bottom: 8px;
+}
+
+.para5 h1{
+    color: #075e54;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: 36px;
+}
+.para5 ul{
+    margin: 0 0 2rem;
+    padding: 0;
+    list-style-image: url('');
+    display: flex;
+    justify-content: center;
+}
+.para5 ul li {
+    width: 35px;
+    height: 20px;
+    background-color: #dffbef !important;
+    list-style: none;
+    margin: 0px 5px;
+    transition: 0.3s ease;
+}
+.para5 ul li a :hover{
+
+text-decoration: underline;
+}
+.para5 li a{
+    padding: 0.5rem 1rem;
+    font-size: 75%;
+    transition: all 400ms;
+}
+.card{
+    margin-top: 50px;
+    margin-left: 160px;
+    
+}
+.heading-7{
+    
+    margin: 0 auto;
+    text-align: justify;
+}
+.heading-7 h1{
+    color: #075E54;
+
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 2rem;
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.heading-7 p{
+    text-align: center;
+   
+}
+.para9{
+    line-height: 1.5;
+    font-weight: 400;
+    width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+}
+.container-2{
+    margin: 0 auto;
+}
+.fa{
+    text-decoration: none;
+    color: white;
+}
+.list2 a{
+    text-decoration: none;
+    color: white;
+
+}
+.list2 {
+    list-style: none;
+}
+.btn-9{
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    outline: 0;
+    border: none;
+    background: #57ab55;
+    color: #ffffff;
+    text-align: center;
+    font-weight: 500;
+    transition: all 0.2s;
+    -webkit-appearance: none;
+    font-size: 90%;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    line-height: 1.7;
+    position: relative
+}
+.btn-9:hover{
+    background-color: #ffc107;;
+}
